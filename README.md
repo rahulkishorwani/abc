@@ -38,7 +38,7 @@ Install
 Run
 =====
 In the command prompt in mycluster folder run following command
-go test
+```go test```
 This will run only one test. To have multiple tests uncomment the other test functions in mycluster_test.go
 
 Constraints
