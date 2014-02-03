@@ -8,7 +8,7 @@ Language Used
      Go language of Google
 Hierarchy
 =====
-    newcluster/src/mycluster/
+    ```newcluster/src/mycluster/
                               mycluster.go
                               mycluster_test.go
                               serverlist0.xml
@@ -16,7 +16,7 @@ Hierarchy
                               serverlist2.xml
                               serverlist3.xml
                               serverlist4.xml
-     
+     ```     
 
 Libraries Used
 =====
@@ -26,7 +26,7 @@ Other:-myluster,zmq4.
 
 Install
 =====
-go get github.com/rahulkishorwani/newcluster
+```go get github.com/rahulkishorwani/newcluster```
 
 Run
 =====
