@@ -24,6 +24,13 @@ System:- strconv,strings,fmt,sync,os,os/exec,syscall,time,math/rand,encoding/xml
 
 Other:-myluster,zmq4.
 
+Requirement
+=====
+   Requirement zmq4 repository.
+   Install it by using the command
+   ```go get github.com/pebbe/zmq4```
+   
+
 Install
 =====
 ```go get github.com/rahulkishorwani/newcluster```
