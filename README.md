@@ -1,14 +1,14 @@
-Newcluster
+"newcluster"
 =======
 
-Newcluster is a repository which has go files for making the interconnections between number of servers(individual server as one cluster) connected to each other & has test file for testing the validity of operations performed by this package.
+"newcluster" is a repository which has go files for making the interconnections between number of servers(individual server as one cluster) connected to each other & has test file for testing the validity of operations performed by this package.
 
 Language Used
 =====
      Go language of Google
 Hierarchy
 =====
-    Newcluster/src/mycluster/
+    newcluster/src/mycluster/
                               mycluster.go
                               mycluster_test.go
                               serverlist0.xml
